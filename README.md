@@ -7,3 +7,4 @@
 5. nop
 6. sub
 7. div
+8. mul
