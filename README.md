@@ -8,3 +8,5 @@
 6. sub
 7. div
 8. mul
+9. mod
+
