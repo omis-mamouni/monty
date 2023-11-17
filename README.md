@@ -10,3 +10,5 @@
 8. mul
 9. mod
 10. comments
+11. pchar
+
