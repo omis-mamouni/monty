@@ -11,4 +11,5 @@
 9. mod
 10. comments
 11. pchar
+12. pstr
 
