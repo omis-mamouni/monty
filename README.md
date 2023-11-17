@@ -13,4 +13,5 @@
 11. pchar
 12. pstr
 13. rotl
+14. rotr
 
